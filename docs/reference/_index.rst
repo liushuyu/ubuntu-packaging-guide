@@ -15,3 +15,4 @@ support matrices, and so on.
    package-version-format
    launchpad-text-markup
    glossary
+   rust-toolchain-packaging
