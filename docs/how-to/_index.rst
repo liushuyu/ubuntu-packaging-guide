@@ -28,3 +28,4 @@ How do I...?
    request-freeze-exception
    merge-a-package
    extract-packages
+   rust-app-packaging
